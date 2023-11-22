@@ -1,5 +1,3 @@
-# Improved GitHub Documentation Format for Data Cleaning Scripts
-
 ## Data Cleaning Scripts for LLM Training
 
 ### Overview
