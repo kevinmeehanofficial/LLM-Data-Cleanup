@@ -35,20 +35,20 @@ The scripts are designed to be straightforward and efficient. Execute them using
 
 Feel free to adapt and enhance these scripts as per your project requirements. Happy coding!
 
-## Contributing
+### Contributing
 
 Contributions to this repository are welcome. If you have suggestions, improvements, or bug fixes, please open an issue or submit a pull request. We value your input and collaboration.
 
-## License
+### License
 
 This project is licensed under the [MIT License](LICENSE.md).
 
-## Acknowledgments
+### Acknowledgments
 
 Special thanks to the open-source community for providing valuable tools and resources that make data cleaning for LLM training more efficient.
 
 
-## Milestones
+### Milestones
 
 Here are the planned milestones for this project:
 
@@ -68,7 +68,7 @@ Here are the planned milestones for this project:
 - Combined scripts into a single open-source project to simplify data preparation for any LLM use case
 
 
-## Contact
+### Contact
 
 For any questions or inquiries, feel free to contact KP KevinMeehanOfficiall@gmail.com.
 
