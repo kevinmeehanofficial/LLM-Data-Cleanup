@@ -2,7 +2,9 @@
 
 ### Overview
 
-Welcome to the repository dedicated to providing specialized scripts for the data-cleaning process, essential in training Large Language Models (LLMs). These scripts are particularly designed for Financial Service LLM Models but are versatile enough for various applications. The repository is structured for high efficiency, with each script serving a specific purpose. You can easily modify and combine them to suit your needs.
+This repository contains a set of scripts designed to facilitate the data-cleaning process for training Large Language Models (LLMs). Clean and high-quality data is crucial for the successful training of language models, and these scripts aim to streamline the data preparation steps.
+
+Note: I am using these scripts to prepare data for training Financial Service LLM Models, but they could be applied for any use case. Also, I am keeping this repository fluid and efficient, so scripts are each designed for a specific task and can be hacked away and combined however you want. View the scripts each as a foundational tool. 
 
 ### Getting Started
 
