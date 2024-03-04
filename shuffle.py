@@ -1,5 +1,5 @@
 """
-Shuffles.py 
+shuffles.py 
 
 Shuffling data between training runs is standard practice when training large language models.
 
